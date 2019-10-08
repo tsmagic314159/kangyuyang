@@ -21,5 +21,9 @@ class TestCalc {
 		
 		assertTrue(c.add(a, b)==result);
 	}
+	@Test
+	void test2() {
+		assertTrue(c.substract(a, b)==5);
+	}
 
 }
