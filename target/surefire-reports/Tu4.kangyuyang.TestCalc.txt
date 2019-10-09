@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Tu4.kangyuyang.TestCalc
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.029 s <<< FAILURE! - in Tu4.kangyuyang.TestCalc
+test2  Time elapsed: 0.007 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
+	at Tu4.kangyuyang.TestCalc.test2(TestCalc.java:26)
+
